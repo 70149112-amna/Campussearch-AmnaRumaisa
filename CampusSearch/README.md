@@ -30,5 +30,5 @@ app/src/main/java/com/campussearch/app/
 ```
 
 ## Before submitting - edit these
-- Team name / Entry ID / members + SAP IDs / GitHub link: `app/src/main/res/values/strings.xml` and this README
-- Add 3-5 screenshots here
+- Amna,Rumaisa / Entry ID / 2 + 70149112,70149424 / GitHub link: `app/src/main/res/values/strings.xml` and this README
+
