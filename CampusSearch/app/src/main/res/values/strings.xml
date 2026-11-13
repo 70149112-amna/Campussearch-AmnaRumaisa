@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Campus Search</string>
+    <string name="tagline">Lost something? Found something?</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_nearby">Nearby</string>
+    <string name="nav_report">Report</string>
+    <string name="nav_profile">Profile</string>
+
+    <!-- TODO: put your real team details here -->
+    <string name="team_members">Rumaisa Faiz (SAP ID: ________)\nMember 2 (SAP ID: ________)\nMember 3 (SAP ID: ________)</string>
+    <string name="github_link">https://github.com/YOUR-USERNAME/AppNova-ENTRYID-TEAMNAME</string>
+
+    <string-array name="categories">
+        <item>Electronics</item>
+        <item>Wallets &amp; Cards</item>
+        <item>Keys</item>
+        <item>Books &amp; Stationery</item>
+        <item>Other</item>
+    </string-array>
+</resources>
